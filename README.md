@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student from Poland passionate about building clean, functional, and modern web applications. I specialize in full-stack development, cloud infrastructure, and AI-powered solutions.<br><br>Outside of tech, I'm really into sports (especially tennis & gym 🏋️‍♂️🎾), motorsports & cars 🚗, and discovering new places around the world 🌍✈️. I enjoy working on practical projects that solve real problems and help people.</p>
+<p align="left">I'm a Computer Science student from Poland passionate about building clean, functional, and modern web applications. I specialize in full-stack development, cloud infrastructure, and AI-powered solutions.<br><br>Outside of tech, I'm really into sports (especially tennis & gym 🏋️‍♂️🎾), motorsports & cars 🚗, and discovering new places around the world 🌍✈️ I enjoy working on practical projects that solve real problems and help people.</p>
 
 ###
 
@@ -70,25 +70,15 @@
 
 ###
 
-<h3 align="left">📈 GitHub Activity</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/qlpak/qlpak/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">📫 Reach me out</h3>
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/lukasz-kulpaczynski" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="lukasz18kulpaczynski@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lukasz-kulpaczynski)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasz18kulpaczynski@gmail.com)
+
+###
+
+<img src="https://raw.githubusercontent.com/qlpak/qlpak/output/snake.svg" alt="Snake animation" />
 
 ###
